@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Felipe Porto
 
-<!--
-**FelipePortoDeveloper/FelipePortoDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height = "150em" src ="https://github-readme-stats.vercel.app/api?username=FelipePortoDeveloper&show_icons=true&theme=transparent"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePortoDeveloper&layout=compact&theme=transparent"/>
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline_block">
+  <img align = "center" height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img align = "center" height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
+  <img align = "center"height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+  <img align = "center" height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align = "center" height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align = "center" height = "40px" width = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
