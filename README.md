@@ -1,8 +1,8 @@
 ## Olá, eu sou o Felipe Porto
 
 <div>
-  <img height = "150em" src ="https://github-readme-stats.vercel.app/api?username=FelipePortoDeveloper&show_icons=true&theme=transparent"/>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePortoDeveloper&layout=compact&theme=transparent"/>
+  <img height = "120em" src ="https://github-readme-stats.vercel.app/api?username=FelipePortoDeveloper&show_icons=true&theme=transparent"/>
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePortoDeveloper&layout=compact&theme=transparent"/>
 </div>
 
 <hr>
